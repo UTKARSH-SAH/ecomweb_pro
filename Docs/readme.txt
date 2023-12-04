@@ -1,11 +1,3 @@
-ADs
-
-No of Views - Get/Demand more monetary from the Ad owners
-    Wikipedia - 0 profit
-
-
-Paid Subscription
-
 E-Commerce(MVP)
     Roles & Responsibilities
         SuperAdmin
